@@ -1,0 +1,108 @@
+city,country,temperature,description,windSpeed,avgTemperatureByCity,timestamp
+London,UK,10.5,Partly cloudy,7.5,12.3,2023-04-15
+New York,USA,20.0,Sunny,12.2,19.7,2023-04-16
+Paris,France,15.3,Mostly sunny,6.8,14.8,2023-04-17
+Tokyo,Japan,18.7,Cloudy,5.1,19.2,2023-04-18
+Sydney,Australia,23.5,Sunny,8.9,22.9,2023-04-19
+Rio de Janeiro,Brazil,27.1,Mostly cloudy,3.6,26.7,2023-04-20
+Berlin,Germany,12.4,Light rain,6.2,13.1,2023-04-21
+Madrid,Spain,18.8,Clear,9.7,19.2,2023-04-22
+Beijing,China,13.9,Overcast,4.5,14.6,2023-04-23
+Moscow,Russia,1.2,Snowy,9.1,0.8,2023-04-24
+Toronto,Canada,6.8,Mostly cloudy,10.3,6.3,2023-04-25
+Mumbai,India,31.2,Haze,3.3,30.7,2023-04-26
+Mexico City,Mexico,22.5,Rainy,6.7,22.2,2023-04-27
+Cairo,Egypt,28.3,Sunny,5.4,27.7,2023-04-28
+Amsterdam,Netherlands,9.7,Windy,8.1,10.1,2023-04-29
+Stockholm,Sweden,7.3,Snowy,3.8,6.8,2023-04-30
+Athens,Greece,22.1,Partly cloudy,4.9,21.8,2023-05-01
+Dubai,United Arab Emirates,35.8,Hot,7.9,35.2,2023-05-02
+Seoul,South Korea,14.6,Mostly sunny,3.7,14.1,2023-05-03
+Rome,Italy,19.2,Cloudy,5.8,18.7,2023-05-04
+London,UK,9.8,Overcast,5.7,12.3,2023-05-05
+New York,USA,18.5,Sunny,7.8,19.7,2023-05-06
+Paris,France,16.9,Partly cloudy,6.3,14.8,2023-05-07
+Tokyo,Japan,20.1,Mostly cloudy,4.2,19.2,2023-05-08
+Sydney,Australia,22.4,Sunny,9.1,22.9,2023-05-09
+Rio de Janeiro,Brazil,29.4,Mostly cloudy,4.4,26.7,2023-05-10
+Berlin,Germany,13.8,Overcast,6.1,13.1,2023-05-11
+London,UK,10.5,Partly cloudy,7.5,12.3,2023-04-15
+New York,USA,20.0,Sunny,12.2,19.7,2023-04-15
+Paris,France,15.3,Mostly sunny,6.8,14.8,2023-04-16
+Tokyo,Japan,18.7,Cloudy,5.1,19.2,2023-04-16
+Sydney,Australia,23.5,Sunny,8.9,22.9,2023-04-17
+Rio de Janeiro,Brazil,27.1,Mostly cloudy,3.6,26.7,2023-04-17
+Berlin,Germany,12.4,Light rain,6.2,13.1,2023-04-18
+Madrid,Spain,18.8,Clear,9.7,19.2,2023-04-18
+Beijing,China,13.9,Overcast,4.5,14.6,2023-04-19
+Moscow,Russia,1.2,Snowy,9.1,0.8,2023-04-19
+Toronto,Canada,6.8,Mostly cloudy,10.3,6.3,2023-04-20
+Mumbai,India,31.2,Haze,3.3,30.7,2023-04-20
+Mexico City,Mexico,22.5,Rainy,6.7,22.2,2023-04-21
+Cairo,Egypt,28.3,Sunny,5.4,27.7,2023-04-21
+Amsterdam,Netherlands,9.7,Windy,8.1,10.1,2023-04-22
+Stockholm,Sweden,7.3,Snowy,3.8,6.8,2023-04-22
+Athens,Greece,22.1,Partly cloudy,4.9,21.8,2023-04-23
+Dubai,United Arab Emirates,35.8,Hot,7.9,35.2,2023-04-23
+Seoul,South Korea,14.6,Mostly sunny,3.7,14.1,2023-04-24
+Rome,Italy,19.2,Cloudy,5.8,18.7,2023-04-24
+Paris,France,14.2,Light rain,5.5,14.8,2023-04-25
+Berlin,Germany,11.9,Sunny,6.9,13.1,2023-04-25
+New York,USA,22.1,Partly cloudy,11.9,19.7,2023-04-26
+Mumbai,India,32.1,Sunny,4.2,30.7,2023-04-26
+London,UK,11.0,Overcast,7.8,12.3,2023-04-27
+Sydney,Australia,22.4,Mostly cloudy,9.2,22.9,2023-04-27
+Tokyo,Japan,19.3,Sunny,4.7,19.2,2023-04-28
+London,UK,12.5,Partly cloudy,7.2,11.8,2023-04-16
+New York,USA,19.3,Sunny,10.5,18.9,2023-04-16
+Paris,France,17.1,Mostly sunny,8.6,16.9,2023-04-16
+Tokyo,Japan,15.2,Cloudy,5.9,15.8,2023-04-16
+Sydney,Australia,21.8,Sunny,9.1,21.5,2023-04-16
+Rio de Janeiro,Brazil,25.6,Mostly cloudy,3.3,25.2,2023-04-16
+Berlin,Germany,9.2,Light rain,6.8,8.7,2023-04-16
+Madrid,Spain,16.7,Clear,11.2,16.4,2023-04-16
+Beijing,China,10.9,Overcast,4.3,10.4,2023-04-16
+Moscow,Russia,4.5,Snowy,9.9,4.1,2023-04-16
+Toronto,Canada,4.8,Mostly cloudy,12.1,4.4,2023-04-16
+Mumbai,India,32.6,Haze,2.7,32.1,2023-04-16
+Mexico City,Mexico,21.5,Rainy,6.1,21.1,2023-04-16
+Cairo,Egypt,30.1,Sunny,6.9,29.8,2023-04-16
+Amsterdam,Netherlands,11.8,Windy,8.3,11.3,2023-04-16
+Stockholm,Sweden,4.7,Snowy,4.1,4.4,2023-04-16
+Athens,Greece,23.9,Partly cloudy,5.1,23.5,2023-04-16
+Dubai,United Arab Emirates,38.2,Hot,6.5,37.8,2023-04-16
+Seoul,South Korea,16.9,Mostly sunny,3.2,16.5,2023-04-16
+Rome,Italy,20.7,Cloudy,5.5,20.3,2023-04-16
+London,UK,14.6,Partly cloudy,7.7,14.2,2023-04-17
+New York,USA,21.8,Sunny,11.3,21.3,2023-04-17
+Paris,France,16.4,Mostly sunny,8.1,16.1,2023-04-17
+Tokyo,Japan,17.9,Cloudy,5.4,17.5,2023-04-17
+Sydney,Australia,22.5,Sunny,9.8,22.2,2023-04-17
+Rio de Janeiro,Brazil,28.3,Mostly cloudy,3.9,28.0,2023-04-17
+Berlin,Germany,11.5,Light rain,7.3,11.1,2023-04-17
+London,UK,10.5,Partly cloudy,7.5,12.3,2023-04-16
+New York,USA,20.0,Sunny,12.2,19.7,2023-04-16
+Paris,France,15.3,Mostly sunny,6.8,14.8,2023-04-16
+Tokyo,Japan,18.7,Cloudy,5.1,19.2,2023-04-16
+Sydney,Australia,23.5,Sunny,8.9,22.9,2023-04-16
+Rio de Janeiro,Brazil,27.1,Mostly cloudy,3.6,26.7,2023-04-16
+Berlin,Germany,12.4,Light rain,6.2,13.1,2023-04-16
+Madrid,Spain,18.8,Clear,9.7,19.2,2023-04-16
+Beijing,China,13.9,Overcast,4.5,14.6,2023-04-16
+Moscow,Russia,1.2,Snowy,9.1,0.8,2023-04-16
+Toronto,Canada,6.8,Mostly cloudy,10.3,6.3,2023-04-16
+Mumbai,India,31.2,Haze,3.3,30.7,2023-04-16
+Mexico City,Mexico,22.5,Rainy,6.7,22.2,2023-04-16
+Cairo,Egypt,28.3,Sunny,5.4,27.7,2023-04-16
+Amsterdam,Netherlands,9.7,Windy,8.1,10.1,2023-04-16
+Stockholm,Sweden,7.3,Snowy,3.8,6.8,2023-04-16
+Athens,Greece,22.1,Partly cloudy,4.9,21.8,2023-04-16
+Dubai,United Arab Emirates,35.8,Hot,7.9,35.2,2023-04-16
+Seoul,South Korea,14.6,Mostly sunny,3.7,14.1,2023-04-16
+Rome,Italy,19.2,Cloudy,5.8,18.7,2023-04-16
+Washington D.C.,USA,18.4,Partly cloudy,11.0,18.2,2023-04-16
+Hong Kong,China,27.9,Sunny,4.4,27.4,2023-04-16
+Vienna,Austria,9.8,Mostly cloudy,7.2,10.2,2023-04-16
+Brussels,Belgium,10.1,Light rain,8.7,10.3,2023-04-16
+Oslo,Norway,5.6,Partly cloudy,4.5,5.8,2023-04-16
+Helsinki,Finland,4.7,Snowy,3.0,4.8,2023-04-16
